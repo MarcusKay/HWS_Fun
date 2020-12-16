@@ -2,7 +2,7 @@
 //  ErrorAlert.swift
 //  Word_Scramble_2
 //
-//  Created by Marc Khoury on 16/12/2020.
+//  Created by MarcusKay on 16/12/2020.
 //
 
 import SwiftUI
